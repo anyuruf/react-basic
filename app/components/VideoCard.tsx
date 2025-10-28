@@ -9,7 +9,6 @@ import {
   MediaSeekForwardButton,
   MediaMuteButton,
 } from 'media-chrome/react';
-import 'youtube-video-element';
 
 function VideoCard() {
   return (
